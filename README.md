@@ -1,2 +1,2 @@
-# gamecms-fivem
-FiveM Script for the platform GameCMS.ORG
+# GameCMS.ORG Fivem Script
+Please read more here https://docs.gamecms.org/fivem-script
